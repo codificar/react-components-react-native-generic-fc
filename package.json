@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://git.codificar.com.br/react-components/react-native-generic-fc"
+    "url": "git+https://github.com/codificar/react-components-react-native-generic-fc"
   },
   "dependencies": {
     "axios": "^0.19.2"
@@ -20,7 +20,7 @@
   },
   "author": "Codificar",
   "bugs": {
-    "url": "https://git.codificar.com.br/react-components/react-native-generic-fc/issues"
+    "url": "https://github.com/codificar/react-components-react-native-generic-fc/issues"
   },
-  "homepage": "https://git.codificar.com.br/react-components/react-native-generic-fc#readme"
+  "homepage": "https://github.com/codificar/react-components-react-native-generic-fc#readme"
 }
